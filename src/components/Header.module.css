@@ -1,0 +1,26 @@
+.profile{
+  width: 50px;
+  border-radius: 30px;
+  margin-left: 20px;
+  padding: 3px;
+  /* flex flex-wrap justify-between items-center mx-auto max-w-screen-xl ; */
+}
+.custom{
+  background-image:linear-gradient(to bottom, rgb(255, 229, 31), rgb(123, 124, 57));
+  display: flex;
+  color: azure;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+
+  
+  
+}
+
+.headingName{
+  font-weight: 700;
+  margin: 10px;
+  font-size: larger;
+}
+

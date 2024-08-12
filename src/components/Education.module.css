@@ -1,0 +1,53 @@
+.MainContainer{
+  width: 90%;
+  height:100vh;
+  margin: 0 auto;
+  border:8px outset lightgray;
+  display: flex;
+  justify-content:space-around;
+}
+.EducationContainer{
+
+width: 100%;
+text-align: center;
+padding: 10px;
+align-items: center;
+margin-bottom: 20px;
+
+
+}
+.ProjectContainer{
+  
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+  font-weight: 700;
+  align-items: center;
+}
+h2{
+  font-weight: 700;
+}
+h3{
+  font-weight: 500;
+}
+.card{
+  /* border: 1px solid black; */
+  padding: 8px;
+  margin-top: 13px;
+  width: 80%;
+  margin: 30px;
+  align-items: center;
+  border-radius: 3px;
+  box-shadow:10px 10px 20px gray;
+
+}
+
+.card:hover{
+  padding: 3px;
+  margin-top: 13px;
+  width: 84%;
+  margin: 30px;
+  align-items: center;
+  border-radius: 4px;
+  box-shadow:10px 10px 20px rgb(79, 33, 33);
+}

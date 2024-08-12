@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.footerItem{
+  display: flex;
+  justify-content: space-between;
+  /* background-color: aqua; */
+}
